@@ -1,29 +1,29 @@
-# 👋 Hi, I'm an applied computing graduate, working to fill in fundamental gaps I've identified in my skillset.
 
+# Back-End Java Engineer by day, interested in growing my skillset.
+
+<center>
+<img alt="Java Logo" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img alt="Spring Logo" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
+</center>
 <center>
 <img alt="HTML 5 Logo" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img alt="CSS3 Logo" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img alt="JavaScript Logo" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </center>
 
-As a recent graduate I'm looking fo Junior/Graduate web developer positions
 
  ## 👀 I’m interested in learning...
-<img alt="React Logo" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img alt="React Native Logo" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img alt="Flutter Logo" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
  
  ## :muscle: I’m currently learning / improving my skills in ...
-<img alt="JavaScript Logo" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-
-### Programming fundamentals via CS50x<img alt="CS50x Logo" src="https://images.squarespace-cdn.com/content/v1/53f24e0fe4b0a4ac7c8dc6f5/1593724337423-C05983EK1YMSQ2B29MT0/ke17ZwdGBToddI8pDm48kDlL8Yd5ulXsV8CssZHhGc57gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1USFOpE3PmbuNOivvSazJTdrD4dc5UuhfBQ2L2UzoKqYAirjcSQbdINryqaTbdKsomw/harvard-logo-transparent.jpg?format=1000w" height="50"/>
-<img alt="C Logo" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-<img alt="Python Logo" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+<img alt="React Logo" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 ## :office: My setup uses
 
 <center>
 <img alt="Apple Macbook Pro 2015 15 Inch Logo" src="https://img.shields.io/badge/Apple-MacBook_Pro_2015_15%22-999999?style=for-the-badge&logo=apple&logoColor=white" />
+<img alt="IntelliJ Idea Logo" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 <img alt="Visual Studio Code Logo" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </center>
 
